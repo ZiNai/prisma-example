@@ -1,0 +1,5 @@
+type Article {
+   id: ID! @id  
+   title: String!
+   pages: Int!
+}
